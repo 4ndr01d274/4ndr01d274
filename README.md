@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi 👋 my name is Alberto Andrei
+============================
+I am a student of Computer Systems and cybersecurity💻
+--------------------------------------------
 
-<!--
-**4ndr01d274/4ndr01d274** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*   🌍  I'm based Mexico City
+*   🧠  I'm learning cybersecurity fundamentals and I am working on obtaining certifications in programming languages.
+*   🤝  I am studying at IPN ESCOM
+*   🤓  I'm autodidactic.
+*   🖥️  See my Linkedin at [Andrei López Pérez](https://www.linkedin.com/in/andrei-l%C3%B3pez-p%C3%A9rez-662885197/)
+*   ✉️  You can contact me at [mateofumis1@gmail.com](lopezandrei279@gmail.com)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a 
+                href="https://www.linkedin.com/in/andrei-l%C3%B3pez-p%C3%A9rez-662885197/" target="_blank" rel="noreferrer"><img
+                src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+/><a/>
