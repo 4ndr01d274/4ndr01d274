@@ -3,6 +3,7 @@ Hi 👋 my name is Alberto Andrei
 I am a student of Computer Systems and cybersecurity💻
 --------------------------------------------
 
+*   👀  I am enthusiastic about cybersecurity and enjoy developing solutions that can positively impact an organization and the people it serves. 
 *   🌍  I'm based Mexico City
 *   🧠  I'm learning cybersecurity fundamentals and I am working on obtaining certifications in programming languages.
 *   🤝  I am studying at IPN ESCOM
