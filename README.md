@@ -8,6 +8,7 @@ I am a student of Computer Systems and cybersecurity💻
 *   🧠  I'm learning cybersecurity fundamentals and I am working on obtaining certifications in programming languages.
 *   🤝  I am studying at IPN ESCOM
 *   🤓  I'm autodidactic.
+*   🥇  All my certificates are [here](https://github.com/4ndr01d274/Certificates)
 *   🖥️  See my Linkedin at [Andrei López Pérez](https://www.linkedin.com/in/andrei-l%C3%B3pez-p%C3%A9rez-662885197/)
 *   ✉️  You can contact me at [lopezandrei279@gmail.com](lopezandrei279@gmail.com)
 
