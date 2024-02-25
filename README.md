@@ -30,3 +30,7 @@ I am a student of Computer Systems and cybersecurity💻
 ![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows&logoColor=white)&nbsp;
 
 <h1 align="center"></h1>
+
+## 📈 CERTIFICATES 📈
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5c646ad5-9d8e-4c0a-8b63-ee689c9f1948" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
