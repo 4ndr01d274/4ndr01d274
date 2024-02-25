@@ -31,6 +31,6 @@ I am a student of Computer Systems and cybersecurity💻
 
 <h1 align="center"></h1>
 
-## 📈 CERTIFICATES 📈
+## 📈 Badges 📈
 
 <img src="https://github.com/4ndr01d274/Certificates/blob/main/Badges/certificado-de-ciberseguridad-de-google.png" width="350">
