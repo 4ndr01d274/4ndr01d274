@@ -33,4 +33,4 @@ I am a student of Computer Systems and cybersecurity💻
 
 ## 📈 CERTIFICATES 📈
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5c646ad5-9d8e-4c0a-8b63-ee689c9f1948" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<img src="https://github.com/4ndr01d274/Certificates/blob/main/Badges/certificado-de-ciberseguridad-de-google.png" width="350">
